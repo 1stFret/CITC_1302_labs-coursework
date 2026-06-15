@@ -1,0 +1,1 @@
+A collection of SQL database labs and projects focused on relational database concepts as part of my CITC AAS program. Includes exercises in schema design and ERDs, data manipulation, multi-table JOINs, and database views.
